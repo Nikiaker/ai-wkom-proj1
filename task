@@ -1,0 +1,10 @@
+Rozwiąż problem Creating a clean plate zaprezentowany w artykule “Interactive Digital Photomontage” autorstwa Aseem Agarwala i innych (SIGGRAPH 2004). Projekt dotyczy problemu “photomontage” polegającego na montażu wielu zdjęć w sposób który pozwoli na utworzenie jednego, najlepszego pod pewnym względem obrazu.
+
+Dane dotyczące problemów opublikowane zostały na stronie:
+http://grail.cs.washington.edu/projects/photomontage/ 
+
+- implementacja algorytmu musi być stworzona w środowisku Python,
+- implementacja może wykorzystywać bibliotekę OpenCV i NumPy (rozwiązanie powinno opierać się na metodach poznanych podczas zajęć z “reprezentacji i przetwarzania obrazu” a OpenCV i NumPy powinny jedynie być pomocą w świadomym i jawnym zaprojektowaniu rozwiązania),
+- algorytm powinien wykorzystywać podejście minimalizacji energii (seam carving) do inteligentnego łączenia obrazów,
+- rozwiązanie musi zawierać kod źródłowy oraz raport opisujący algorytm wraz z opisem kroków pośrednich,
+rozwiązanie ma być przedstawione w formie pliku jupyter notebook zawierającego kod i opis kolejnych kroków

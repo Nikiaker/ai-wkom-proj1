@@ -8,3 +8,12 @@ http://grail.cs.washington.edu/projects/photomontage/
 - algorytm powinien wykorzystywać podejście minimalizacji energii (seam carving) do inteligentnego łączenia obrazów,
 - rozwiązanie musi zawierać kod źródłowy oraz raport opisujący algorytm wraz z opisem kroków pośrednich,
 rozwiązanie ma być przedstawione w formie pliku jupyter notebook zawierającego kod i opis kolejnych kroków
+
+Uzupełnij opsiy w jupyter notebook tak by wszystkie poniższe kryteria były spełnione:
+Rozwiązanie ma być przedstawione w formie pliku jupyter notebook zawierającego kod i opis kolejnych kroków
+Projekt będzie oceniany na podstawie następujących kryteriów:
+raport:
+    - sposób przedstawienia wyników pośrednich (wizualizacje, trafność opisów),
+    - analiza otrzymanych wyników,
+    - błędy merytoryczne,
+    - potencjalne odniesienia do literatury,
